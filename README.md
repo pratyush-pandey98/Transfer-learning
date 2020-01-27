@@ -1,4 +1,3 @@
-# Transfer-learning
 ->Performing Transfer Learning on a mobilenet v1 using Tensorflow Keras
 ->Edit dataset directory path accordingly
 ->All major layers have been retrained, according to need selective layers can be retrained
